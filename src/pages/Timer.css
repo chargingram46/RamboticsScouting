@@ -1,0 +1,42 @@
+.time {
+  font-size: 50px;
+  width: 60px;
+  height: 60px;
+  color: gold;
+  text-align: center;
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  color: black;
+  border: 2px solid black;
+}
+
+.button-primary-active {
+  background-color: red;
+  border: 2px solid black;
+  color: black;
+}
+
+.button-primary-inactive {
+  background-color: green;
+  border: 2px solid black;
+  color: black;
+}
+
+.mode {
+  font-size: 50px;
+  width: 60px;
+  height: 60px;
+  color: maroon;
+}
+
+.count {
+  color: black;
+}
+
+.input {
+  width: 700px;
+  height: 700px;
+}
